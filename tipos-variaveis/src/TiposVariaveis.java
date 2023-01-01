@@ -1,27 +1,23 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        //tipos primitivos
-        //estudem a classe String que representa textos na aplicação
+        // tipos primitivos
+        // estudem a classe String que representa textos na aplicação
 
-        String meuNome = "WLANYSE BECKMAN";
-        
-        
-        
-        double salarioMinimo = 2500;
+        // String meuNome = "WLANYSE BECKMAN";
 
-        short numeroCurto = 1;
-        int numeroNormal = numeroCurto;
-        short numeroCurto2 = (short) numeroNormal;
+        // double salarioMinimo = 2500;
 
-        int numero = 5;
+        // short numeroCurto = 1;
+        // int numeroNormal = numeroCurto;
+        // short numeroCurto2 = (short) numeroNormal;
 
-        numero = 10;
+        // int numero = 5;
 
-        System.out.println(numero);
+        // numero = 10;
 
-        final double VALOR DE PI = 3.14;
+        // System.out.println(numero);
 
-        
+        // final double VALOR DE PI = 3.14;
 
     }
 }
